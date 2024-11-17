@@ -1,0 +1,14 @@
+[package]
+name = "is_number"
+version = "0.1.0"
+edition = "2021"
+description = "Check if a string can be parsed as a number"
+license = "MIT"
+authors = ["Sahil <issahil404@gmail.com>"]
+repository = "https://github.com/dotslashbit/is-number-rs"
+documentation = "https://docs.rs/is_number"
+readme = "README.md"
+keywords = ["number", "parsing", "validation", "string", "check"]
+categories = ["parsing", "text-processing"]
+
+[dependencies]
