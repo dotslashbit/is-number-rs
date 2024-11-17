@@ -1,6 +1,6 @@
 [package]
 name = "is_number"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Check if a string can be parsed as a number"
 license = "MIT"
