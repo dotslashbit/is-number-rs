@@ -11,11 +11,5 @@ readme = "README.md"
 keywords = ["number", "parsing", "validation", "string", "check"]
 categories = ["parsing", "text-processing"]
 
-[[
-example
-]]
-name = "number_validator"
-path = "examples/number_validator.rs"
-
 
 [dependencies]
